@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm Franco Dobarro
 
-# Full Stack Developer from 🇦🇷
+# Full Stack Developer from Argentina
 
 🚀 Passionate about creating impactful and functional web experiences.
 
